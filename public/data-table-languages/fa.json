@@ -1,0 +1,23 @@
+{
+  "sEmptyTable":     "هیچ معلومات ای در جدول وجود ندارد",
+  "sInfo":           "نمایش _START_ تا _END_ از _TOTAL_ معلومات",
+  "sInfoEmpty":      "نمایش 0 تا 0 از 0 معلومات",
+  "sInfoFiltered":   "(فیلتر شده از _MAX_ معلومات)",
+  "sInfoPostFix":    "",
+  "sInfoThousands":  ",",
+  "sLengthMenu":     "نمایش _MENU_ معلومات",
+  "sLoadingRecords": "در حال بارگزاری...",
+  "sProcessing":     "در حال پردازش...",
+  "sSearch":         "جستجو:",
+  "sZeroRecords":    "معلومات ای با این مشخصات پیدا نشد",
+  "oPaginate": {
+    "sFirst":    "ابتدا",
+    "sLast":     "انتها",
+    "sNext":     "بعدی",
+    "sPrevious": "قبلی"
+  },
+  "oAria": {
+    "sSortAscending":  ": فعال سازی نمایش به صورت صعودی",
+    "sSortDescending": ": فعال سازی نمایش به صورت نزولی"
+  }
+}

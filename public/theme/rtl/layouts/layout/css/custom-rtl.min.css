@@ -1,0 +1,7 @@
+.fixedHeader-floating {
+    padding-top: 10px !important;
+    z-index: 999999 !important;
+}
+.flip {
+    transform: scale(-1, 1);
+}

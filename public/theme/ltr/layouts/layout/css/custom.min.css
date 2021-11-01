@@ -1,0 +1,4 @@
+.fixedHeader-floating {
+    padding-top: 10px !important;
+    z-index: 999999 !important;
+}
